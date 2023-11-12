@@ -1,0 +1,16 @@
+{
+    "name": "vendor/squirell-blog",
+    "description": "Project Blog is provide solution in write blog.",
+    "autoload": {
+        "psr-4": {
+            "Routes\\": "vendor/Squirell/Component/Routing/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tinbeehexa",
+            "email": "tin.nguyen@beehexa.com"
+        }
+    ],
+    "require": {}
+}
